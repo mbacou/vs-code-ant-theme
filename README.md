@@ -18,8 +18,8 @@ Colors are derived from the **Ant-Dark** color palette, with gradients of cyan a
 
 VS Code color theme:
 
-![screenshot](./resources/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/mbacou/vs-code-ant-theme/refs/heads/main/resources/screenshot.png)
 
 Matching Linux KDE color scheme:
 
-![screenshot-kde](./resources/screenshot-kde.png)
+![screenshot-kde](https://raw.githubusercontent.com/mbacou/vs-code-ant-theme/refs/heads/main/resources/screenshot-kde.png)
